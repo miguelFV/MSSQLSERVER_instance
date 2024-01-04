@@ -1,1 +1,1 @@
-CREATE DATABASE cargas_test01;
+CREATE DATABASE cargas_test02;
