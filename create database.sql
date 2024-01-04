@@ -1,1 +1,0 @@
-CREATE DATABASE cargas_test05;
