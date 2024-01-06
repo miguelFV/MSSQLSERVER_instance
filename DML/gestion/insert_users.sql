@@ -1,1 +1,1 @@
-insert into ...;
+insert into DBO.users("FIST_NAME,LAST_NAME")values("Mike","Fuentes");

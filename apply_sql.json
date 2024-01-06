@@ -2,6 +2,6 @@
     "files_to_apply": [
         ".\\DDL\\gestion\\create_database_gestion.sql",
         "./DDL/gestion/create_table_users.sql",
-        "./DDL/gestion/insert_users.sql"
+        "./DML/gestion/insert_users.sql"
     ]
 }
