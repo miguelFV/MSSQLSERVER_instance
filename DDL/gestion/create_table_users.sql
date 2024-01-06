@@ -5,7 +5,7 @@ IF OBJECT_ID('dbo.USERS','U') IS NOT NULL
 GO
 
 CREATE TABLE dbo.USERS(
-    ID_USER identity not NULL
+    ID_USER integer identity not NULL
     FIST_NAME varchar(40) not NULL
     LAST_NAME varchar(40) not NULL
 );
